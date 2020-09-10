@@ -1,2 +1,2 @@
 # Alert
-## Simple HTML-file with JavaScript Alert
+## Simple HTML-file with JavaScript Alert example
